@@ -14,37 +14,38 @@
 
 ### What I work on
 
-| 💻 Software · AI · Security | 🔌 Electronics · VLSI · Embedded |
-|---|---|
-| Deep-learning segmentation and computer vision | RTL design in Verilog, FPGA, digital arithmetic |
-| Hardware-security research on CNN accelerators | AMBA AHB/APB bus design, approximate FP16/BF16 multipliers |
-| SIEM monitoring, threat hunting, MITRE ATT&CK | Sensor fusion and LoRa links on Raspberry Pi / STM32 |
-| Linux security tooling in Go | Synthesis and PPA analysis with Cadence Genus, Vivado |
+**Software, AI & Security**
+- Deep-learning segmentation and computer vision
+- Hardware-security research on CNN accelerators
+- SIEM monitoring, threat hunting and MITRE ATT&CK detections
+
+**Electronics & Embedded**
+- RTL design in Verilog, FPGA and digital arithmetic
+- AMBA AHB/APB bus design and approximate FP16/BF16 multipliers
+- Edge AI and sensor fusion on Raspberry Pi: INT8 ONNX YOLO, GPS tagging and LoRa links
 
 ### Featured repositories
 
-| Project | What it is |
-|---|---|
-| [**ICE_KATTI_GLOF_Challenge**](https://github.com/vizarrd/ICE_KATTI_GLOF_Challenge) | Glacial lake segmentation from satellite imagery — U-Net++ with an EfficientNet-B3 encoder in PyTorch, hybrid Focal + Dice + Boundary loss, test-time augmentation. **4th place, GLOFeagles'26.** |
-| [**Edge_AI_Based_Road_Anomaly_Detection_using_raspberrypi**](https://github.com/vizarrd/Edge_AI_Based_Road_Anomaly_Detection_using_raspberrypi) | Real-time pothole and obstacle detection on a Raspberry Pi — INT8-quantized ONNX YOLO on CPU, GPS tagging and event-based logging. |
-| [**file-change-tracker**](https://github.com/vizarrd/file-change-tracker) | Lightweight Linux file-integrity monitor in Go — SHA-256 baselines, admin-approval workflow, audit-only logging, runs as a systemd service. |
-| [**vit-event-scheduler-public**](https://github.com/vizarrd/vit-event-scheduler-public) | Event management system for VIT with venue-conflict detection, real-time updates and email notifications. [Live site](https://vit-event-scheduler.netlify.app/). |
-| [**visshadow**](https://github.com/vizarrd/visshadow) | ShadowPortals — a sci-fi-themed room-booking web app built with React, TypeScript and Tailwind. [Live site](https://shadowportals.netlify.app/). |
+- [**ICE_KATTI_GLOF_Challenge**](https://github.com/vizarrd/ICE_KATTI_GLOF_Challenge) — glacial lake segmentation from satellite imagery with U-Net++ and an EfficientNet-B3 encoder in PyTorch, a hybrid Focal + Dice + Boundary loss and test-time augmentation. **4th place, GLOFeagles'26.**
+- [**Edge_AI_Based_Road_Anomaly_Detection_using_raspberrypi**](https://github.com/vizarrd/Edge_AI_Based_Road_Anomaly_Detection_using_raspberrypi) — real-time pothole and obstacle detection on a Raspberry Pi using an INT8-quantized ONNX YOLO model on CPU, with GPS tagging and event-based logging.
+- [**file-change-tracker**](https://github.com/vizarrd/file-change-tracker) — lightweight Linux file-integrity monitor in Go with SHA-256 baselines, an admin-approval workflow and a systemd service.
+- [**vit-event-scheduler-public**](https://github.com/vizarrd/vit-event-scheduler-public) — event management system for VIT with venue-conflict detection, real-time updates and email notifications ([live site](https://vit-event-scheduler.netlify.app/)).
+- [**visshadow**](https://github.com/vizarrd/visshadow) — ShadowPortals, a sci-fi-themed room-booking web app built with React, TypeScript and Tailwind ([live site](https://shadowportals.netlify.app/)).
 
 ### Also working on
 
-- 🛡️ **Security analysis of a CNN accelerator** — a hardware Trojan in a LeNet-5 FPGA design, a defense bypass, and a stronger trigger (Artix-7, &lt;1.1% LUT/register overhead)
-- 🔧 **AHB-to-APB bridge** in Verilog with a three-state controller FSM
-- 🚧 **Pothole detection with V2V LoRa warnings** — IMU + LiDAR + camera sensor fusion on a Raspberry Pi *(patent application filed)*
-- 📄 **Research** on energy-efficient approximate FP16 multipliers for ECG classification *(manuscript in preparation)*
+- Security analysis of a CNN accelerator: a hardware Trojan in a LeNet-5 FPGA design, a defense bypass and a stronger trigger (Artix-7, <1.1% LUT/register overhead)
+- AHB-to-APB bridge in Verilog with a three-state controller FSM
+- Pothole detection with V2V LoRa warnings using IMU, LiDAR and camera sensor fusion on a Raspberry Pi (patent application filed)
+- Research on energy-efficient approximate FP16 multipliers for ECG classification (manuscript in preparation)
 
 ### Experience &amp; recognition
 
 - **Cybersecurity Intern** — Tripate (Wazuh SIEM, MITRE ATT&amp;CK detections, SOC triage) · 2026
 - **VLSI Design Intern** — Centre for Nano Electronics &amp; VLSI Design (CNVD), VIT Chennai · 2026
-- 🏅 **4th place**, national-level competition (GLOFeagles'26 · NCVPRIPG 2026, LNMIIT Jaipur)
-- 📜 **Indian patent application** — LoRa-based pothole detection and directional vehicle alert system
-- 🧭 **Research & Development Head**, Open Source Programming Club · **Network Security Lead**, AWS Cloud Club — VIT Chennai
+- **4th place**, national-level competition (GLOFeagles'26 · NCVPRIPG 2026, LNMIIT Jaipur)
+- **Indian patent application** — LoRa-based pothole detection and directional vehicle alert system
+- **Research & Development Head**, Open Source Programming Club · **Network Security Lead**, AWS Cloud Club — VIT Chennai
 
 ### Tech
 
