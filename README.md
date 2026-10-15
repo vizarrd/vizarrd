@@ -29,8 +29,6 @@
 - [**ICE_KATTI_GLOF_Challenge**](https://github.com/vizarrd/ICE_KATTI_GLOF_Challenge) — glacial lake segmentation from satellite imagery with U-Net++ and an EfficientNet-B3 encoder in PyTorch, a hybrid Focal + Dice + Boundary loss and test-time augmentation. **4th place, GLOFeagles'26.**
 - [**Edge_AI_Based_Road_Anomaly_Detection_using_raspberrypi**](https://github.com/vizarrd/Edge_AI_Based_Road_Anomaly_Detection_using_raspberrypi) — real-time pothole and obstacle detection on a Raspberry Pi using an INT8-quantized ONNX YOLO model on CPU, with GPS tagging and event-based logging.
 - [**file-change-tracker**](https://github.com/vizarrd/file-change-tracker) — lightweight Linux file-integrity monitor in Go with SHA-256 baselines, an admin-approval workflow and a systemd service.
-- [**vit-event-scheduler-public**](https://github.com/vizarrd/vit-event-scheduler-public) — event management system for VIT with venue-conflict detection, real-time updates and email notifications ([live site](https://vit-event-scheduler.netlify.app/)).
-- [**visshadow**](https://github.com/vizarrd/visshadow) — ShadowPortals, a sci-fi-themed room-booking web app built with React, TypeScript and Tailwind ([live site](https://shadowportals.netlify.app/)).
 
 ### Also working on
 
