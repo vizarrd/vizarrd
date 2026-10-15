@@ -39,10 +39,13 @@
 - Pothole detection with V2V LoRa warnings using IMU, LiDAR and camera sensor fusion on a Raspberry Pi (patent application filed)
 - Research on energy-efficient approximate FP16 multipliers for ECG classification (manuscript in preparation)
 
-### Experience &amp; recognition
+### Experience
 
-- **Cybersecurity Intern** — Tripate (Wazuh SIEM, MITRE ATT&amp;CK detections, SOC triage) · 2026
-- **VLSI Design Intern** — Centre for Nano Electronics &amp; VLSI Design (CNVD), VIT Chennai · 2026
+- **Cybersecurity Intern** — Tripate
+- **VLSI Design Intern** — Centre for Nano Electronics & VLSI Design (CNVD), VIT Chennai
+
+### Achievements
+
 - **4th place**, national-level competition (GLOFeagles'26 · NCVPRIPG 2026, LNMIIT Jaipur)
 - **Indian patent application** — LoRa-based pothole detection and directional vehicle alert system
 - **Research & Development Head**, Open Source Programming Club · **Network Security Lead**, AWS Cloud Club — VIT Chennai
