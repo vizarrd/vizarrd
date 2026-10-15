@@ -44,12 +44,6 @@
 - **Cybersecurity Intern** — Tripate
 - **VLSI Design Intern** — Centre for Nano Electronics & VLSI Design (CNVD), VIT Chennai
 
-### Achievements
-
-- **4th place**, national-level competition (GLOFeagles'26 · NCVPRIPG 2026, LNMIIT Jaipur)
-- **Indian patent application** — LoRa-based pothole detection and directional vehicle alert system
-- **Research & Development Head**, Open Source Programming Club · **Network Security Lead**, AWS Cloud Club — VIT Chennai
-
 ### Tech
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
