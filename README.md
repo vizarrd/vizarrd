@@ -35,10 +35,6 @@
 - Security analysis of a CNN accelerator: a hardware Trojan in a LeNet-5 FPGA design, a defense bypass and a stronger trigger (Artix-7, <1.1% LUT/register overhead)
 - AHB-to-APB bridge in Verilog with a three-state controller FSM
 
-### Experience
-
-- **Cybersecurity Intern** — Tripate
-- **VLSI Design Intern** — Centre for Nano Electronics & VLSI Design (CNVD), VIT Chennai
 
 ### Tech
 
